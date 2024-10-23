@@ -1,7 +1,7 @@
 # Real_Time_Object_Detection 
-## Name- Jeevanesh
-## reg no - 212222243002
-## dep - AI & ML
+## Name- KISHORE KUMAR U
+## reg no - 212222233003
+## dep - AI & DS
 ## AIM
 #### Real Time Object Detection
 ## procedure
@@ -102,7 +102,8 @@ cv2.destroyAllWindows()
 
 
 ### Out put
-![Screenshot 2024-09-24 110736](https://github.com/user-attachments/assets/866efa34-b680-47a3-9cb0-de63b1d2b0a9)
+![WhatsApp Image 2024-10-23 at 16 26 36](https://github.com/user-attachments/assets/135bd738-b6a6-4464-9205-1b8f498d0d38)
+
 
 ### result
 This project implements real-time object detection using YOLOv4. It detects objects in live video streams or from recorded videos with high accuracy and efficiency.
